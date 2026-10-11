@@ -1,0 +1,122 @@
+{
+  "idle": {
+    "w": 166,
+    "h": 318,
+    "ax": 83,
+    "ay": 316,
+    "lift": 0,
+    "file": "idle.png"
+  },
+  "walk_a": {
+    "w": 194,
+    "h": 313,
+    "ax": 93,
+    "ay": 311,
+    "lift": 0,
+    "file": "walk_a.png"
+  },
+  "walk_b": {
+    "w": 213,
+    "h": 297,
+    "ax": 72,
+    "ay": 295,
+    "lift": 0,
+    "file": "walk_b.png"
+  },
+  "block": {
+    "w": 182,
+    "h": 326,
+    "ax": 90,
+    "ay": 324,
+    "lift": 0,
+    "file": "block.png"
+  },
+  "punch": {
+    "w": 201,
+    "h": 328,
+    "ax": 89,
+    "ay": 326,
+    "lift": 0,
+    "file": "punch.png"
+  },
+  "crouch": {
+    "w": 233,
+    "h": 343,
+    "ax": 85,
+    "ay": 341,
+    "lift": 0,
+    "file": "crouch.png"
+  },
+  "sweep": {
+    "w": 209,
+    "h": 292,
+    "ax": 82,
+    "ay": 290,
+    "lift": 0,
+    "file": "sweep.png"
+  },
+  "kick": {
+    "w": 136,
+    "h": 342,
+    "ax": 71,
+    "ay": 340,
+    "lift": 0,
+    "file": "kick.png"
+  },
+  "high": {
+    "w": 234,
+    "h": 329,
+    "ax": 94,
+    "ay": 327,
+    "lift": 0,
+    "file": "high.png"
+  },
+  "flying": {
+    "w": 261,
+    "h": 234,
+    "ax": 95,
+    "ay": 232,
+    "lift": 70,
+    "file": "flying.png"
+  },
+  "head": {
+    "w": 208,
+    "h": 293,
+    "ax": 123,
+    "ay": 291,
+    "lift": 0,
+    "file": "head.png"
+  },
+  "splits": {
+    "w": 269,
+    "h": 193,
+    "ax": 133,
+    "ay": 191,
+    "lift": 78,
+    "file": "splits.png"
+  },
+  "flip": {
+    "w": 127,
+    "h": 185,
+    "ax": 66,
+    "ay": 183,
+    "lift": 36,
+    "file": "flip.png"
+  },
+  "down": {
+    "w": 231,
+    "h": 101,
+    "ax": 110,
+    "ay": 99,
+    "lift": 0,
+    "file": "down.png"
+  },
+  "jump": {
+    "w": 145,
+    "h": 302,
+    "ax": 68,
+    "ay": 300,
+    "lift": 0,
+    "file": "jump.png"
+  }
+}
